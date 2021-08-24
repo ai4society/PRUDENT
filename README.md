@@ -2,10 +2,10 @@
 
 Related Readings:
 
-[Link to PRL2021 accepted paper] (https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_28.pdf)
-[Link to the poster] (https://prl-theworkshop.github.io/prl2021/posters/PRL2021_poster_28.pdf)
-[Link to the demo] (https://youtu.be/X2l7eW6dyBc)
-[Link to ICAPS2021 demo paper] (https://icaps21.icaps-conference.org/demos/demos/381.pdf)
+Link to [PRL2021 accepted paper](https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_28.pdf)
+Link to the [poster](https://prl-theworkshop.github.io/prl2021/posters/PRL2021_poster_28.pdf)
+Link to the [demo](https://youtu.be/X2l7eW6dyBc)
+Link to [ICAPS2021 demo paper](https://icaps21.icaps-conference.org/demos/demos/381.pdf)
 
 Steps to interact with **PRUDENT**:
 1. Clone this repository.
